@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipIntoPic", "ZipIntoPic\Zi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FillDisk", "FillDisk\FillDisk.csproj", "{A7EBF6AC-8A9A-46CD-9EC3-A49E53106609}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnyExeToServer", "AnyExeToServer\AnyExeToServer.csproj", "{BFD9B37A-8379-4825-ABED-39AAE50AB607}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A7EBF6AC-8A9A-46CD-9EC3-A49E53106609}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7EBF6AC-8A9A-46CD-9EC3-A49E53106609}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7EBF6AC-8A9A-46CD-9EC3-A49E53106609}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD9B37A-8379-4825-ABED-39AAE50AB607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD9B37A-8379-4825-ABED-39AAE50AB607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD9B37A-8379-4825-ABED-39AAE50AB607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD9B37A-8379-4825-ABED-39AAE50AB607}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
