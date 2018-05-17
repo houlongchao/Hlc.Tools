@@ -16,4 +16,4 @@
 
   
 
-软件截图：![ZipIntoPic截图](images/zipintopic.png)
+软件截图：![ZipIntoPic截图](images/ZipIntoPic.png)
