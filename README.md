@@ -1,6 +1,6 @@
 # HLC小工具
 
-下载地址 [Release](Release/)
+[下载传送门](https://github.com/houlongchao/Hlc.Tools/releases)
 
 ## 1.  [ZipIntoPic](ZipIntoPic/README.md) 压缩包隐藏在图片中
 
