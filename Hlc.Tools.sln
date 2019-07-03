@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27428.2037
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipIntoPic", "ZipIntoPic\ZipIntoPic.csproj", "{F88A23EB-F0B9-4F47-8DA8-2BEDFE6F266D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FillDisk", "FillDisk\FillDisk.csproj", "{A7EBF6AC-8A9A-46CD-9EC3-A49E53106609}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnyExeToServer", "AnyExeToServer\AnyExeToServer.csproj", "{BFD9B37A-8379-4825-ABED-39AAE50AB607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolutionRenamer", "SolutionRenamer\SolutionRenamer.csproj", "{6A432DE6-8A28-46A1-A796-F5C693D4E3E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{BFD9B37A-8379-4825-ABED-39AAE50AB607}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFD9B37A-8379-4825-ABED-39AAE50AB607}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFD9B37A-8379-4825-ABED-39AAE50AB607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A432DE6-8A28-46A1-A796-F5C693D4E3E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A432DE6-8A28-46A1-A796-F5C693D4E3E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A432DE6-8A28-46A1-A796-F5C693D4E3E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A432DE6-8A28-46A1-A796-F5C693D4E3E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
